@@ -1,0 +1,5 @@
+.tools/
+artifacts/
+**/bin/
+**/obj/
+.work/
